@@ -1,0 +1,21 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">ScoreKeeperApp</string>
+
+    <string name="team_a_name">Team A Name</string>
+    <string name="team_b_name">Team B Name</string>
+
+    <string name="goals">0</string>
+
+    <string name="share">Share Result</string>
+    <string name="reset">Reset Result</string>
+
+    <string name="email_subject">Match Result for <xliff:g id="teams">%s</xliff:g></string>
+
+    <string name="teams">Teams: </string>
+    <string name="result">Result: </string>
+
+    <string name="vs"> VS </string>
+
+    <string name="thank_you">Thank you!</string>
+
+</resources>
